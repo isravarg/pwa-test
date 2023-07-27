@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1690477761068,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.f200fff0d30dde0f.js",
+        "/manifest.webmanifest",
+        "/polyfills.b66f3f45a595a920.js",
+        "/runtime.334ccea7020514a4.js",
+        "/scripts.813213362642cfa0.js",
+        "/styles.f62218c4e54787cf.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/magna-icon-128x128.png",
+        "/assets/icons/magna-icon-144x144.png",
+        "/assets/icons/magna-icon-152x152.png",
+        "/assets/icons/magna-icon-170x170.png",
+        "/assets/icons/magna-icon-192x192.png",
+        "/assets/icons/magna-icon-384x384.png",
+        "/assets/icons/magna-icon-512x512.png",
+        "/assets/icons/magna-icon-72x72.png",
+        "/assets/icons/magna-icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/icons/magna-icon-128x128.png": "450b2dd263e35f1b246a3dac27f534cf794eb530",
+    "/assets/icons/magna-icon-144x144.png": "fd98899a5775e36f768ae7e2cfe2518325488796",
+    "/assets/icons/magna-icon-152x152.png": "f4fd68130bb9ea4c1782b9e2c584024a80bbbc09",
+    "/assets/icons/magna-icon-170x170.png": "1a7120ea3b00e2c815aed61b6fe4bfab24724f9f",
+    "/assets/icons/magna-icon-192x192.png": "6906dffd2e4cce09219052d104c042c7a976032d",
+    "/assets/icons/magna-icon-384x384.png": "4af26841f6d0b8401c236ac5cbdb40733ead8a3e",
+    "/assets/icons/magna-icon-512x512.png": "2fddabd55931ebb9fa500c46f1016bfe1f1e6eb9",
+    "/assets/icons/magna-icon-72x72.png": "3c91b1a413128a743d8386a4f35bd2dd5b53a901",
+    "/assets/icons/magna-icon-96x96.png": "b27ff98aa405372456a216a5e5b13438868c5e12",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "aabaa2697492cc2a6163a3688b98de482a61b875",
+    "/main.f200fff0d30dde0f.js": "027e7b04265cfa50db4dba0f04bdbce91ba00c6e",
+    "/manifest.webmanifest": "402b69ef7fbc2898962592ef4a844614b0419c06",
+    "/polyfills.b66f3f45a595a920.js": "140f20eedb8056d3e97d5f0a025ac4d76ca5e325",
+    "/runtime.334ccea7020514a4.js": "b442675da7ba7ab3f21ef09353fa6e068cc38ef8",
+    "/scripts.813213362642cfa0.js": "f5aff95fcb374642070cf44558f50c1c3cdaf5e4",
+    "/styles.f62218c4e54787cf.css": "4c748a1061d828beec78dc94be0c451c2a77f7ba"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
